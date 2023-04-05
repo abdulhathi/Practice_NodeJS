@@ -1,0 +1,7 @@
+
+  This is the file content.
+  -------------------------
+  Hi,
+    How are you. This is Abdul Hathi. 
+  Thanks,
+  Abdul Hathi
